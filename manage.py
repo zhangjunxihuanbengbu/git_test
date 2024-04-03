@@ -22,6 +22,7 @@ def main():
     print("hello master")
     print("hot-fix ")
     print('hello5')
+    print("hello6")
 
 if __name__ == '__main__':
     main()
