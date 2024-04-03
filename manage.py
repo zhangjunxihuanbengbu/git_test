@@ -20,6 +20,7 @@ def main():
     print('hello git2')
     print("hello git3")
     print("hello master")
+    print("hot-fix ")
 
 if __name__ == '__main__':
     main()
