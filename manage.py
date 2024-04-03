@@ -18,6 +18,7 @@ def main():
     execute_from_command_line(sys.argv)
     print('hello git')
     print('hello git2')
+    print("hello git3")
 
 if __name__ == '__main__':
     main()
